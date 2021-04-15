@@ -15,5 +15,6 @@ npm run serve
 npm run build
 ```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+### TodoList类应用，滑动完成规划任务，滑动删除规划任务，复制任务到剪贴板等。
+<img src="@/READMEImg/projectView1"/>
+<img src="@/READMEImg/projectView2"/>
